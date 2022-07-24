@@ -70,7 +70,7 @@ docker-compose exec app bash
 Instalar as dependências do projeto
 ```sh
 composer install
-
+```
 
 Gerar a key do projeto Laravel
 ```sh
